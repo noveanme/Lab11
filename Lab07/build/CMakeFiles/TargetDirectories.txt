@@ -1,0 +1,5 @@
+/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build/CMakeFiles/applibrary.dir
+/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build/CMakeFiles/runTests.dir
+/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build/CMakeFiles/runMain.dir
+/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build/CMakeFiles/rebuild_cache.dir

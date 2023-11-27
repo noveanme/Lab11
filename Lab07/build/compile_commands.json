@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/applibrary.dir/PriorityQueue.cpp.o -c /mnt/c/Users/menon/Documents/DataStructures_git/Lab07/PriorityQueue.cpp",
+  "file": "/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/PriorityQueue.cpp"
+},
+{
+  "directory": "/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /mnt/c/Users/menon/Documents/DataStructures_git/Lab07/tests.cpp",
+  "file": "/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/tests.cpp"
+},
+{
+  "directory": "/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /mnt/c/Users/menon/Documents/DataStructures_git/Lab07/main.cpp",
+  "file": "/mnt/c/Users/menon/Documents/DataStructures_git/Lab07/main.cpp"
+}
+]
